@@ -2,7 +2,7 @@
 
 Hunter's Rift is a gaming platform dashboard designed for administrators to create and host contest that video gamers can participate and get rewarded. Administrators are also able to manage not only the contest promotions, video games but also moderate users and email list. 
 
-## Purpose (Why)
+## Purpose
 
 For Gamers`
 - They get to see a sneak peak of upcoming games
@@ -15,7 +15,7 @@ For Business
 - Generate traffic to a particular partner platform
 
 
-## Features (What)
+## Features
 
 - Create and manage upcoming video games
 - Create and manage upcoming online only digital contest
